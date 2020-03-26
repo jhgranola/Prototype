@@ -1,0 +1,100 @@
+body {
+  background-color: black;
+  font-family:Nunito, sans-serif;
+}
+#tinderp {
+  padding-top:0px;
+  margin-top:0px;
+  border: 1 px solid black;
+  width: 320px;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+.topinfo {
+  padding-bottom: 20px;
+  padding-left:15px;
+  border-bottom: 1px solid #f7f7f7;
+}
+.topinfo p {
+  margin-top:0px;
+  margin-bottom:0px;
+  color: #8d8d8d;
+}
+h1 {
+  font-size:20px;
+  font-weight:normal;
+  color:#4d4d4d;
+  margin-bottom:0px;
+}
+#description {
+  padding: 15px 15px 5px;
+  color: #8d8d8d;
+}
+.iconz {
+  font-size:14px;
+}
+.circles {
+  color:white;
+  border-radius:50%;
+  height: 50px;
+  width:50px;
+  text-align:center;
+  box-shadow: 1px 1px 4px #aaa;
+  cursor: pointer;
+  cursor:hand;
+  display:inline-block;
+  margin-bottom:15px;
+}
+
+.exit {
+  background-color: #EE6C49;
+  
+  margin-left:30px;
+  margin-right:50px;
+}
+.exit i{
+   position:relative;
+  top:8px;
+}
+.heart {
+  background-color: #3BA4FF;
+  position:relative;
+  top:-4px;
+  margin-left:50px;
+}
+.heart i {
+  position:relative;
+  top:14px;
+  font-size: 26px;vc
+}
+.star {
+  background-color: #4CCC92;
+  margin:auto;
+}
+.star i {
+  font-size:30px;
+  position:relative;
+  top: 10px;
+}
+
+#profileimg {
+  height: 320px;
+  width:320px;
+  margin-top:0px;
+  vertical-align:top;
+  padding-top:0px;
+}
+#more {
+  float:right;
+  position: relative;
+  top: 10px; 
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    height: 200px;
+    padding-bottom: 30px;
+}
